@@ -1,5 +1,5 @@
 print("""
-Nota: esto es exclusivo de Python, las clases de índices
+Nota: esto es exclusivo de Python, la forma de usar índices
 a continuación no son notación común en la mayoría de 
 los lenguajes de programación, pero en Python son MUY
 convenientes, y nos permiten hacer operaciones que en

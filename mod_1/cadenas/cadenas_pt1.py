@@ -52,6 +52,19 @@ mi_cadena += " aqui mero"
 print("Ahora, después de guardar la concatenación tengo en mi_cadena:", mi_cadena)
 
 print("""
+La concatenación con el operador '+' no está limitada a añadir una sola cadena,
+se pueden concatenar todas las cadenas consecutivas que se desee.
+Puedo, por ejemplo, concatenar de la siguiente forma.
+Declaro una nueva variable texto2:
+texto2 = "y sigo "
+Y el resultado lo puedo asignar a otra variable:
+mas_texto = mi_cadena + " aqui mero " + texto2 + "agregando más"
+""")
+texto2 = "y sigo "
+mas_texto = mi_cadena + " aqui mero " + texto2 + "agregando más"
+print(mas_texto)
+
+print("""
 Otro operador aritmético que se puede utilizar con cadenas
 es el de multiplicación (* o *=).
 Aunque este es menos común, ya que lo único que hace
