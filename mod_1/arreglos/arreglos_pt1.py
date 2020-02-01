@@ -43,10 +43,15 @@ un arreglo, o una variable que haga referencia a un arreglo.
 """)
 la_longitud = len(numeritos)
 print("La longitud de mi arreglo de numeritos es:", la_longitud)
-print("Ahora quiero que me muestre el último elemento (recordando que es la longitud, menos 1)")
-print("Porque si hago referencia a un índice que no existe, va a tronar como chilacayote")
-print("Entonces el último elemento es lo que guardé en 'la_longitud', menos 1: ", numeritos[la_longitud - 1])
 
+print("""
+Ahora quiero que me muestre el último elemento (recordando que es 
+la longitud, menos 1)
+Porque si hago referencia a un índice que no existe, va a tronar 
+como chilacayote".
+""")
+
+print("Entonces el último elemento es lo que guardé en 'la_longitud', menos 1: ", numeritos[la_longitud - 1])
 #Si quieres que truene como chilacayote y te muestre un error, quita el comentario "#"
 
 #De la siguiente línea:
