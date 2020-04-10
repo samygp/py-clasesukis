@@ -1,4 +1,4 @@
 *DS_Store
-.vscode/*
-pyenv/*
+.vscode*
 *.ipynb_checkpoints
+pyenv*
