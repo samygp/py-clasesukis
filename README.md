@@ -3,6 +3,9 @@
 ## Intro
 Curso con intención de dar las bases de programación para completos debutantes, y cualquier humano que tenga intenciones de aprender a programar.
 
+## Ir directamente al contenido
+Para ver el índice del contenido en este curso, puedes ir al archivo [`indice_lecciones.md`](./indice_lecciones.md) o [`haz click aquí`](./indice_lecciones.md).
+
 ## Herramientas y prerrequisitos
 Para ejecutar localmente este contenido, se debe instalar en la computadora lo siguiente:
 

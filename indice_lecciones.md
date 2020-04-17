@@ -17,9 +17,15 @@
 - [Booleanos: Práctica 2](https://repl.it/@elSenpai/booleanos2)
 - [Booleanos: Práctica 3](https://repl.it/@elSenpai/booleanos3)
 3. [Arreglos: Parte 1](./mod_1/arreglos/notebooks/arreglos_pt1.ipynb)
+- [Arreglos: Práctica 1](https://repl.it/@elSenpai/arreglos1)
 4. [Arreglos: Parte 2](./mod_1/arreglos/notebooks/arreglos_pt2.ipynb)
+- [Arreglos: Práctica 2](https://repl.it/@elSenpai/arreglos2)
 5. [Arreglos: Parte 3](./mod_1/arreglos/notebooks/arreglos_pt3.ipynb)
+- [Arreglos: Práctica 3](https://repl.it/@elSenpai/arreglos3)
 6. [Cadenas](./mod_1/cadenas/notebooks/cadenas_pt1.ipynb)
+-
 7. [Ciclos `for`: Parte 1](./mod_1/control_de_flujo/for_pt1.ipynb)
+-
 8. [Ciclos `for`: Parte 2](./mod_1/control_de_flujo/for_pt2.ipynb)
+-
 9. [Ciclos `while`](./mod_1/control_de_flujo/while.ipynb)
