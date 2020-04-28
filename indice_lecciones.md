@@ -32,3 +32,4 @@
 9. [Ciclos `while`](./mod_1/control_de_flujo/while.ipynb)
     - [Ciclos `while`: Práctica 1](https://repl.it/@elSampai/while1)
     - [Ciclos `while`: Práctica 2](https://repl.it/@elSampai/while1)
+10. [Anidación (lección opcional)](./mod_1/control_de_flujo/anidacion.ipynb)
