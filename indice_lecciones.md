@@ -33,3 +33,6 @@
     - [Ciclos `while`: Práctica 1](https://repl.it/@elSampai/while1)
     - [Ciclos `while`: Práctica 2](https://repl.it/@elSampai/while1)
 10. [Anidación](./mod_1/control_de_flujo/anidacion.ipynb)
+    - [Anidación: Práctica 1](https://repl.it/@elSampai/anidacion1)
+    - [Anidación: Práctica 2](https://repl.it/@elSampai/anidacion2)
+
