@@ -45,11 +45,13 @@ Curso con intención de dar las bases de programación para completos debutantes
 
 1. [Funciones y subrutinas: Parte 1](./mod_2/funciones/funciones_pt1.ipynb)
 1. [Funciones y subrutinas: Parte 2 - scope](./mod_2/funciones/funciones_pt2.ipynb)
-2. [Recursión](./mod_2/funciones/recursion.ipynb)
-3. [Programación orientada a objetos (POO): Clases, métodos y atributos]
-4. [Estructuras de datos: Listas ligadas]
-5. [Estructuras de datos: Pilas y colas]
-6. [Estructuras de datos: Pilas y colas]
+    - [Funciones: Práctica 1](https://repl.it/@elSampai/funciones1)
+    - [Funciones: Práctica 2](https://repl.it/@elSampai/funciones2)
+1. [Recursión](./mod_2/funciones/recursion.ipynb)
+1. [Programación orientada a objetos (POO): Clases, métodos y atributos]
+1. [Estructuras de datos: Listas ligadas]
+1. [Estructuras de datos: Pilas y colas]
+1. [Estructuras de datos: Pilas y colas]
 
 ## Usar localmente el contenido del repositorio
 
