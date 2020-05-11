@@ -48,7 +48,8 @@ Curso con intención de dar las bases de programación para completos debutantes
     - [Funciones: Práctica 1](https://repl.it/@elSampai/funciones1)
     - [Funciones: Práctica 2](https://repl.it/@elSampai/funciones2)
 1. [Recursión](./mod_2/funciones/recursion.ipynb)
-1. [Programación orientada a objetos (POO): Clases, métodos y atributos]
+    - [Recursión: Práctica 1](https://repl.it/@elSampai/recursion1)
+1. [Programación orientada a objetos (POO): Clases, métodos y atributos](./mod_2/poo/poo_pt1.ipynb)
 1. [Estructuras de datos: Listas ligadas]
 1. [Estructuras de datos: Pilas y colas]
 1. [Estructuras de datos: Pilas y colas]
