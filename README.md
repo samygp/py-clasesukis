@@ -53,7 +53,8 @@ Curso con intención de dar las bases de programación para completos debutantes
     - [Programación oriendata a objetos: Práctica 1](https://repl.it/@elSampai/poo1)
 1. [Estructuras de datos: Listas ligadas](./mod_2/estructuras/listas_ligadas.ipynb)
     - [Listas ligadas: Práctica 1](https://repl.it/@elSampai/listasligadas)
-1. [Estructuras de datos: Pilas]
+1. [Estructuras de datos: Pilas](./mod_2/estructuras/pilas.ipynb)
+    - [Pilas: Práctica 1](https://repl.it/@elSampai/pilas)
 1. [Estructuras de datos: Colas]
 
 ## Usar localmente el contenido del repositorio
