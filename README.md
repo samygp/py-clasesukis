@@ -50,13 +50,14 @@ Curso con intención de dar las bases de programación para completos debutantes
 1. [Recursión](./mod_2/funciones/recursion.ipynb)
     - [Recursión: Práctica 1](https://repl.it/@elSampai/recursion1)
 1. [Programación orientada a objetos (POO): Clases, métodos y atributos](./mod_2/poo/poo_pt1.ipynb)
-    - [Programación oriendata a objetos: Práctica 1](https://repl.it/@elSampai/poo1)
+    - [Programación orientada a objetos: Práctica 1](https://repl.it/@elSampai/poo1)
 1. [Estructuras de datos: Listas ligadas](./mod_2/estructuras/listas_ligadas.ipynb)
     - [Listas ligadas: Práctica 1](https://repl.it/@elSampai/listasligadas)
 1. [Estructuras de datos: Colas](./mod_2/estructuras/colas.ipynb)
     - [Colas: Práctica 1](https://repl.it/@elSampai/colas)
 1. [Estructuras de datos: Pilas](./mod_2/estructuras/pilas.ipynb)
     - [Pilas: Práctica 1](https://repl.it/@elSampai/pilas)
+1. [Programación orientada a objetos (POO): Herencia](./mod_2/poo/poo_pt2.ipynb)
 
 ## Usar localmente el contenido del repositorio
 
