@@ -57,6 +57,8 @@ Curso con intención de dar las bases de programación para completos debutantes
     - [Colas: Práctica 1](https://repl.it/@elSampai/colas)
 1. [Estructuras de datos: Pilas](./mod_2/estructuras/pilas.ipynb)
     - [Pilas: Práctica 1](https://repl.it/@elSampai/pilas)
+1. [Estructuras de datos: Diccionarios](./mod_2/estructuras/diccionarios.ipynb)
+    - [Diccionarios: Práctica 1](https://repl.it/@elSampai/diccionarios)
 1. [Programación orientada a objetos (POO): Herencia](./mod_2/poo/poo_pt2.ipynb)
 
 ## Usar localmente el contenido del repositorio
