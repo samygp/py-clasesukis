@@ -6,7 +6,7 @@ Curso con intención de dar las bases de programación para completos debutantes
 ## Índice
 
 ### Módulo 0
-
+#### Semana 1
 1. [Bienvenida](./mod_0/notebooks/0_bienvenida.ipynb)
 2. [Hola mundo: función `print` y tipos de datos](./mod_0/notebooks/1_hola_mundo.ipynb)
     - [Hola mundo: práctica 1](https://repl.it/@elSampai/holamundopractica)
@@ -14,7 +14,7 @@ Curso con intención de dar las bases de programación para completos debutantes
     - [Operadores aritméticos:  práctica 1](https://repl.it/@elSampai/operadoresaritmeticospractica)
 
 ### Módulo 1
-
+#### Semana 2
 1. [Operadores booleanos y enunciados `if`: Parte 1](./mod_1/control_de_flujo/booleanos_pt1.ipynb)
     - [Booleanos: calentamiento](https://repl.it/@elSampai/booleanoscalentamiento)
     - [Booleanos: Práctica 1](https://repl.it/@elSampai/booleanos1)
@@ -27,6 +27,7 @@ Curso con intención de dar las bases de programación para completos debutantes
     - [Arreglos: Práctica 2](https://repl.it/@elSampai/arreglos2)
 5. [Arreglos: Parte 3](./mod_1/arreglos/notebooks/arreglos_pt3.ipynb)
     - [Arreglos: Práctica 3](https://repl.it/@elSampai/arreglos3)
+#### Semana 3
 6. [Cadenas](./mod_1/cadenas/notebooks/cadenas_pt1.ipynb)
 7. [Ciclos `for`: Parte 1](./mod_1/control_de_flujo/for_pt1.ipynb)
     - [Ciclos `for`: Práctica 1](https://repl.it/@elSampai/for1)
@@ -42,24 +43,43 @@ Curso con intención de dar las bases de programación para completos debutantes
     - [Anidación: Práctica 2](https://repl.it/@elSampai/anidacion2)
 
 ### Módulo 2
-
+#### Semana 4
 1. [Funciones y subrutinas: Parte 1](./mod_2/funciones/funciones_pt1.ipynb)
-1. [Funciones y subrutinas: Parte 2 - scope](./mod_2/funciones/funciones_pt2.ipynb)
+2. [Funciones y subrutinas: Parte 2 - scope](./mod_2/funciones/funciones_pt2.ipynb)
     - [Funciones: Práctica 1](https://repl.it/@elSampai/funciones1)
     - [Funciones: Práctica 2](https://repl.it/@elSampai/funciones2)
-1. [Recursión](./mod_2/funciones/recursion.ipynb)
+3. [Recursión](./mod_2/funciones/recursion.ipynb)
     - [Recursión: Práctica 1](https://repl.it/@elSampai/recursion1)
-1. [Programación orientada a objetos (POO): Clases, métodos y atributos](./mod_2/poo/poo_pt1.ipynb)
+#### Semana 5
+4. [Programación orientada a objetos (POO): Clases, métodos y atributos](./mod_2/poo/poo_pt1.ipynb)
     - [Programación orientada a objetos: Práctica 1](https://repl.it/@elSampai/poo1)
-1. [Estructuras de datos: Listas ligadas](./mod_2/estructuras/listas_ligadas.ipynb)
+5. [Estructuras de datos: Listas ligadas](./mod_2/estructuras/listas_ligadas.ipynb)
     - [Listas ligadas: Práctica 1](https://repl.it/@elSampai/listasligadas)
-1. [Estructuras de datos: Colas](./mod_2/estructuras/colas.ipynb)
+#### Semana 6
+6. [Estructuras de datos: Colas](./mod_2/estructuras/colas.ipynb)
     - [Colas: Práctica 1](https://repl.it/@elSampai/colas)
-1. [Estructuras de datos: Pilas](./mod_2/estructuras/pilas.ipynb)
+7. [Estructuras de datos: Pilas](./mod_2/estructuras/pilas.ipynb)
     - [Pilas: Práctica 1](https://repl.it/@elSampai/pilas)
-1. [Estructuras de datos: Diccionarios](./mod_2/estructuras/diccionarios.ipynb)
-    - [Diccionarios: Práctica 1](https://repl.it/@elSampai/diccionarios)
-1. [Programación orientada a objetos (POO): Herencia](./mod_2/poo/poo_pt2.ipynb)
+9. [Programación orientada a objetos (POO): Herencia](./mod_2/poo/poo_pt2.ipynb)
+
+### Módulo 3
+#### Semana 7
+1. [Análisis de algoritmos](./mod_3/algoritmos/introduccion_analisis.ipynb)
+1. [Algoritmos: Bubble sort]
+1. [Algoritmos: Búsqueda binaria]
+1. [Algoritmos: Merge sort]
+#### Semana 8
+1. [Estructuras de datos: Árboles binarios]
+1. [Algoritmos: Recorridos de árboles (en orden, pre-orden, post-orden)]
+1. [Estructuras de datos: Árboles de búsqueda binaria]
+
+### Módulo 4
+#### Semana 9
+1. [Estructuras de datos: Diccionarios](./mod_4/diccionarios.ipynb)
+1. [Operaciones con cadenas]
+1. [Ordenamiento]
+1. [Pilas y colas usando listas de Python]
+1. [Programación funcional y listas de comprensión]
 
 ## Usar localmente el contenido del repositorio
 
