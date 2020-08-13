@@ -64,8 +64,8 @@ Curso con intención de dar las bases de programación para completos debutantes
 
 ### Módulo 3
 #### Semana 7
-1. [Análisis de algoritmos](./mod_3/algoritmos/introduccion_analisis.ipynb)
-1. [Algoritmos: Bubble sort]
+1. [Análisis de algoritmos (opcional)](./mod_3/algoritmos/introduccion_analisis.ipynb)
+1. [Algoritmos: Bubble sort](./mod_3/algoritmos/bubble_sort.ipynb)
 1. [Algoritmos: Búsqueda binaria]
 1. [Algoritmos: Merge sort]
 #### Semana 8
