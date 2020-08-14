@@ -70,7 +70,6 @@ Curso con intención de dar las bases de programación para completos debutantes
 1. [Algoritmos: Merge sort](./mod_3/algoritmos/merge_sort.ipynb)
 #### Semana 8
 1. [Estructuras de datos: Árboles binarios](./mod_3/estructuras/arboles.ipynb)
-1. [Algoritmos: Recorridos de árboles (en orden, pre-orden, post-orden)]
 1. [Estructuras de datos: Árboles de búsqueda binaria]
 
 ### Módulo 4
