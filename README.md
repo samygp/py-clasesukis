@@ -76,7 +76,7 @@ Curso con intención de dar las bases de programación para completos debutantes
 #### Semana 9
 1. [Estructuras de datos: Diccionarios](./mod_4/diccionarios.ipynb)
 1. [Operaciones con cadenas](./mod_4/metodos_cadenas.ipynb)
-1. [Programación funcional y listas de comprensión]
+1. [Programación funcional y listas de comprensión (opcional)](./mod_4/programacion_funcional.ipynb)
 
 ## Usar localmente el contenido del repositorio
 
