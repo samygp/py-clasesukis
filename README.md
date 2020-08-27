@@ -7,7 +7,7 @@ Curso con intención de dar las bases de programación para completos debutantes
 
 ### Módulo 0
 #### Semana 1
-1. [Bienvenida](./mod_0/notebooks/0_bienvenida.ipynb)
+1. [Bienvenida](./mod_0/notebooks/0_bienvenida.html)
 2. [Hola mundo: función `print` y tipos de datos](./mod_0/notebooks/1_hola_mundo.ipynb)
     - [Hola mundo: práctica 1](https://repl.it/@elSampai/holamundopractica)
 3. [Operadores aritméticos](./mod_0/notebooks/operadores_aritmeticos.ipynb)
